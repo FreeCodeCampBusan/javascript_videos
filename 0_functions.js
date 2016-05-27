@@ -1,3 +1,5 @@
+// Video lesson at https://youtu.be/Zg6ESLIasic
+
 function sayGreeting(greeting) {
   console.log(greeting +  " Free Code Camp!");
 }

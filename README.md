@@ -11,7 +11,9 @@ In this video series, [Stephen Mayeux](http://stephenmayeux.com) walks through t
 
 ## Content
 
-0. **Basics of JavaScript Functions** -- Syntax of functions. Passing 0, 1, or multiple arguments. Calling/invoking arguments. The `return` statement. `undefined` values. YouTube: https://youtu.be/Zg6ESLIasic
+0. **Basics of JavaScript Functions** -- Syntax of functions. Passing 0, 1, or multiple arguments. Calling/invoking functions. The `return` statement. `undefined` values. YouTube: https://youtu.be/Zg6ESLIasic
+
+1. **Reverse a String in JavaScript** -- Method chaining. `split`, `reverse`, and `join` methods in JavaScript. YouTube: https://youtu.be/gPAtcWuM8AM
 
 ## Contribute
 
@@ -22,4 +24,4 @@ If you contribute a video lesson to this series, then you are amazing! Just foll
 1. Upload your video to YouTube.
 2. Submit one JavaScript file for each lesson.
 3. Update the README and add your lesson under the Content section.
-4. Make a pull request and await everlasting glory. 
+4. Make a pull request and await everlasting glory.
