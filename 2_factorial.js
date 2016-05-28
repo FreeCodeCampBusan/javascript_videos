@@ -27,4 +27,5 @@ function factorial_r(num) {
   }
 }
 
-console.log(factorial(5));
+console.log("Using iteration: " + factorial_i(5));
+console.log("Using recursion: " + factorial_r(7));
