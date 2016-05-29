@@ -31,7 +31,7 @@ function palindromeRegex2(str) {
 
   // a double or tripple equals will return a boolean (true/false)
   // the first version works, but is repetitive.
-  // thanks to YouTube user revisualise for pointing that out 
+  // thanks to @revisualize for pointing that outgit 
 }
 
 
