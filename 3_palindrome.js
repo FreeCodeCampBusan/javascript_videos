@@ -24,5 +24,12 @@ function palindromeRegex(str) {
   }
 }
 
+// shorter way to write palindromeRegex()
+function palindromeRegex2(str) {
+  str = str.toLowerCase().replace(/[\W_]/g, "");
+  return str === str.split("").reverse().join(""); 
+}
+
+
 console.log(palindromeRegex("A man. A plan. A canal. Panama."));
 console.log(palindromeRegex("Hello world!"));
