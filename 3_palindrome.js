@@ -27,7 +27,11 @@ function palindromeRegex(str) {
 // shorter way to write palindromeRegex()
 function palindromeRegex2(str) {
   str = str.toLowerCase().replace(/[\W_]/g, "");
-  return str === str.split("").reverse().join(""); 
+  return str === str.split("").reverse().join("");
+
+  // a double or tripple equals will return a boolean (true/false)
+  // the first version works, but is repetitive.
+  // thanks to YouTube user revisualise for pointing that out 
 }
 
 
