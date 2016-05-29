@@ -17,6 +17,8 @@ In this video series, [Stephen Mayeux](http://stephenmayeux.com) walks through t
 
 2. **Factorialize a Number** -- `for` loops and `if`/`else` blocks. Using the `reduce` array method. Functional programming. Recursive programming. YouTube: https://youtu.be/43XF7GBY05E
 
+3. **Checking for Palindromes** -- Recursive programming. `slice` and `replace` methods. Regular Expressions. YouTube: https://youtu.be/mQ6ZB24DInc
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
