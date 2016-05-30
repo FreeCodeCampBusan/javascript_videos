@@ -21,6 +21,8 @@ In this video series, [Stephen Mayeux](http://stephenmayeux.com) walks through t
 
 4. **Finding Longest Word in a Sentence** -- `for` loops. Functional programming with `forEach()`. Using `split(' ')` as opposed to `split('')`. YouTube: https://youtu.be/U5-jiTDgmR8
 
+5. **Title Case a Sentence** -- Using the `map()` method to return a new array. YouTube: https://youtu.be/fsvBwqOrkKs
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
