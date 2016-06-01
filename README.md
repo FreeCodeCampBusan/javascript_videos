@@ -25,6 +25,8 @@ In this video series, [Stephen Mayeux](http://stephenmayeux.com) walks through t
 
 6. **Return Largest Numbers in an Array** -- Using `push()` to add numbers to the end of an array. Using `sort()` to sort an array of Strings and Integers. YouTube: https://youtu.be/YD4M77uB3lo
 
+7. **Confirm the Ending** -- Using `Math.abs()` and `-Math.abs()` to generate absolute numbers. Using `.slice()` and its alternative `.substr()`. YouTube: https://youtu.be/AsLtWDncqeQ
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
