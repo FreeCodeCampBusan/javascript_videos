@@ -27,6 +27,8 @@ In this video series, [Stephen Mayeux](http://stephenmayeux.com) walks through t
 
 7. **Confirm the Ending** -- Using `Math.abs()` and `-Math.abs()` to generate absolute numbers. Using `.slice()` and its alternative `.substr()`. YouTube: https://youtu.be/AsLtWDncqeQ
 
+8. **Repeat a string repeat a string** -- Using the `.repeat()` method (surprise!) to repeat strings. `Ternary operators` for simplified `if/else` blocks. YouTube: https://youtu.be/stGujQgT9EM
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
