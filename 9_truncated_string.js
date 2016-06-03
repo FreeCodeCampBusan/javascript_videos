@@ -1,4 +1,4 @@
-// YouTube: https://youtu.be/DPCUz5kr8XA
+// YouTube: https://youtu.be/pnUjKTgMhe8
 
 function truncateString(str, num) {
   if (str.length <= num) {
