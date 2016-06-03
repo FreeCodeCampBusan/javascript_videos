@@ -29,6 +29,8 @@ In this video series, [Stephen Mayeux](http://stephenmayeux.com) walks through t
 
 8. **Repeat a string repeat a string** -- Using the `.repeat()` method (surprise!) to repeat strings. `Ternary operators` for simplified `if/else` blocks. YouTube: https://youtu.be/stGujQgT9EM
 
+9. **Truncated String** -- Nothing new here! Just a simple `.slice()` method with an `if`/`else if`/`else` block. YouTube: https://youtu.be/DPCUz5kr8XA
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
