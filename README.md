@@ -31,6 +31,12 @@ In this video series, [Stephen Mayeux](http://stephenmayeux.com) walks through t
 
 9. **Truncated String** -- Nothing new here! Just a simple `.slice()` method with an `if`/`else if`/`else` block. YouTube: https://youtu.be/pnUjKTgMhe8
 
+10. **Chunky Monkey** -- Iterating through arrays using `while` loops. Shortening `counter = counter + size` to `counter += size`. YouTube: https://youtu.be/4MR5N0_KINM
+
+11. **Slasher Flick** -- Removing items from the beginning of an array with `shift()`. Inserting and/or removing items from an array with `splice()`. YouTube: https://youtu.be/OhOOyVrERkI
+
+12. **Mutations** -- Checking whether or not a character exists in a string using `indexOf()`. YouTube:
+https://youtu.be/cz6JbsG4A-Y
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
