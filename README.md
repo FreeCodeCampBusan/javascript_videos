@@ -37,6 +37,9 @@ In this video series, [Stephen Mayeux](http://stephenmayeux.com) walks through t
 
 12. **Mutations** -- Checking whether or not a character exists in a string using `indexOf()`. YouTube:
 https://youtu.be/cz6JbsG4A-Y
+
+13. **Falsy Bouncer** -- Boolean objects and the `filter()` array method. YouTube: https://youtu.be/6a0Owm4PUA0
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
