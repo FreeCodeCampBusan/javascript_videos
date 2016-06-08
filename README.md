@@ -40,6 +40,8 @@ https://youtu.be/cz6JbsG4A-Y
 
 13. **Falsy Bouncer** -- Boolean objects and the `filter()` array method. YouTube: https://youtu.be/6a0Owm4PUA0
 
+14. **Seek and Destroy** -- Arguments object and converting it into an array using `Array.prototype.slice.call(arguments, 1)`. Checking wheter or not an array includes a value with `includes()`. YouTube: https://youtu.be/jm7s-tZ508Y
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
