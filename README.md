@@ -42,6 +42,8 @@ https://youtu.be/cz6JbsG4A-Y
 
 14. **Seek and Destroy** -- Arguments object and converting it into an array using `Array.prototype.slice.call(arguments, 1)`. Checking wheter or not an array includes a value with `includes()`. YouTube: https://youtu.be/jm7s-tZ508Y
 
+15. ** Where Do I Belong** -- Joining two arrays with `concat()` and how it differs from `push()`. YouTube: https://youtu.be/t4ETMI5m26g
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
