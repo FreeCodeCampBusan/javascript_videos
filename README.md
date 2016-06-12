@@ -44,15 +44,15 @@ https://youtu.be/cz6JbsG4A-Y
 
 14. **Seek and Destroy** -- Arguments object and converting it into an array using `Array.prototype.slice.call(arguments, 1)`. Checking wheter or not an array includes a value with `includes()`. YouTube: https://youtu.be/jm7s-tZ508Y
 
-15. ** Where Do I Belong** -- Joining two arrays with `concat()` and how it differs from `push()`. YouTube: https://youtu.be/t4ETMI5m26g
+15. **Where Do I Belong** -- Joining two arrays with `concat()` and how it differs from `push()`. YouTube: https://youtu.be/t4ETMI5m26g
 
-16. ** Ceasers Cipher ** -- Encoding and decoding strings with `fromCharCode()` and `charCodeAt()`. YouTube: https://youtu.be/37yPWD-g-Ik
+16. **Ceasers Cipher ** -- Encoding and decoding strings with `fromCharCode()` and `charCodeAt()`. YouTube: https://youtu.be/37yPWD-g-Ik
 
 ### Intermediate
 
 ** Watch the Intermediate Prep Video!!! ** -- YouTube: https://youtu.be/SqZJr2pSr-0
 
-17. ** Sum of Numbers in a Range ** -- Using `Math.min()` and `Math.max()` to add up the numbers within a range. YouTube: https://youtu.be/dlwEs4xcloY
+17. **Sum of Numbers in a Range ** -- Using `Math.min()` and `Math.max()` to add up the numbers within a range. YouTube: https://youtu.be/dlwEs4xcloY
 
 ## Contribute
 
