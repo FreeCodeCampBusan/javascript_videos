@@ -56,6 +56,8 @@ https://youtu.be/cz6JbsG4A-Y
 
 2. **Diff of Two Arrays** -- Finding the symmetric difference or the difference between two arrays. This function uses our good friends `filter()`, `concat()`, `slice()`, and `indexOf()`. YouTube: https://youtu.be/ylbjD5fHytI
 
+3. **Roman Numeral Converter** -- Object literals. Iterating through objects using `for...in` loops. The difference between `Math.round()` and `Math.trunc()`. Our good old friend `String.repeat()`. YouTube: https://youtu.be/OHIeCYZWVuQ
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
