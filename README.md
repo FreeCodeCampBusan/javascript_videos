@@ -60,6 +60,8 @@ https://youtu.be/cz6JbsG4A-Y
 
 4. **Where Art Thou** -- Object literals. Creating an array of object keys with `Object.keys()` and testing whether or not every item of an array passes a test with `every()`. YouTube: https://youtu.be/zFYkDRnKdLw
 
+5. **Search and Replace** -- If you've been following along, this challenge is nothing you couldn't do on your own! Very simple, but I introduce the `.charAt()` method. YouTube: https://youtu.be/4Zx0OFWVj-w
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
