@@ -42,7 +42,7 @@ https://youtu.be/cz6JbsG4A-Y
 
 13. **Falsy Bouncer** -- Boolean objects and the `filter()` array method. YouTube: https://youtu.be/6a0Owm4PUA0
 
-14. **Seek and Destroy** -- Arguments object and converting it into an array using `Array.prototype.slice.call(arguments, 1)`. Checking wheter or not an array includes a value with `includes()`. YouTube: https://youtu.be/jm7s-tZ508Y
+14. **Seek and Destroy** -- Arguments object and converting it into an array using `Array.prototype.slice.call(arguments, 1)`. Checking whether or not an array includes a value with `includes()`. YouTube: https://youtu.be/jm7s-tZ508Y
 
 15. **Where Do I Belong** -- Joining two arrays with `concat()` and how it differs from `push()`. YouTube: https://youtu.be/t4ETMI5m26g
 
@@ -61,6 +61,12 @@ https://youtu.be/cz6JbsG4A-Y
 4. **Where Art Thou** -- Object literals. Creating an array of object keys with `Object.keys()` and testing whether or not every item of an array passes a test with `every()`. YouTube: https://youtu.be/zFYkDRnKdLw
 
 5. **Search and Replace** -- If you've been following along, this challenge is nothing you couldn't do on your own! Very simple, but I introduce the `.charAt()` method. YouTube: https://youtu.be/4Zx0OFWVj-w
+
+6. **Pig Latin** -- Converting an English word into Pig Latin. YouTube: https://youtu.be/Rg-0XRgsFlI
+
+7. **DNA Pairings** -- Creating a 2d array of paired DNA elements. YouTube: https://youtu.be/TlksPje9A5Y
+
+8. **Missing Letter** -- Finding the missing letter in a range of letters. YouTube: https://youtu.be/ZdU3v0irI24
 
 ## Contribute
 
