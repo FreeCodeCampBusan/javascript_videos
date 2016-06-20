@@ -68,6 +68,8 @@ https://youtu.be/cz6JbsG4A-Y
 
 8. **Missing Letter** -- Finding the missing letter in a range of letters. YouTube: https://youtu.be/ZdU3v0irI24
 
+9. **Boo Who** -- Boolean primitives and the `typeof` keyword. YouTube: https://youtu.be/QCFSd-JpZgg
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
