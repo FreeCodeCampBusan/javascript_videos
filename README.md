@@ -70,6 +70,8 @@ https://youtu.be/cz6JbsG4A-Y
 
 9. **Boo Who** -- Boolean primitives and the `typeof` keyword. YouTube: https://youtu.be/QCFSd-JpZgg
 
+10. **Sorted Union** -- Arguments object. Functions as first-class objects in JavaScript. Using `reduce`, `concat`, and `filter` all in one! YouTube: https://youtu.be/73IeA87eXUk
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
