@@ -76,6 +76,8 @@ https://youtu.be/cz6JbsG4A-Y
 
 12. **Spinal Tap Case** -- Converting strings to spinal-case-with-regex. Capturing groups in Regex and our old friend the `replace()` method. YouTube: https://youtu.be/o66bwArtShw
 
+13. **Sum of All Odd Fibonacci Numbers** -- Adding new methods to arrays via prototypal inheritance. The `this` keyword. YouTube: 
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
