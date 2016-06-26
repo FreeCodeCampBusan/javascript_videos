@@ -1,3 +1,5 @@
+// YouTube: https://youtu.be/6gsOXQWDGwo
+
 Array.prototype.last = function() {
   return this[this.length-1];
 };

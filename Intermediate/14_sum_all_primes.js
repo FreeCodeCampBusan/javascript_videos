@@ -1,4 +1,4 @@
-// YouTube:
+// YouTube: https://youtu.be/7-Z7lcm999o
 
 function sumPrimes(num) {
   var range = [];
@@ -15,7 +15,7 @@ function sumPrimes(num) {
 }
 
 // No need to put this logic in our for loop above.
-// Break it out into a seperate function.
+// Break it out into a separate function.
 // Makes our code more modular and resuable (good!)
 // And also make it more readable (very good!!)
 function isPrimeNumber(num) {
