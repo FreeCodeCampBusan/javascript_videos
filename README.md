@@ -76,7 +76,13 @@ https://youtu.be/cz6JbsG4A-Y
 
 12. **Spinal Tap Case** -- Converting strings to spinal-case-with-regex. Capturing groups in Regex and our old friend the `replace()` method. YouTube: https://youtu.be/o66bwArtShw
 
-13. **Sum of All Odd Fibonacci Numbers** -- Adding new methods to arrays via prototypal inheritance. The `this` keyword. YouTube: 
+13. **Sum of All Odd Fibonacci Numbers** -- Adding new methods to arrays via prototypal inheritance. The `this` keyword. YouTube: https://youtu.be/6gsOXQWDGwo
+
+14. **Sum All Primes** -- Function hoisting. Writing modular code by breaking out logic into separate functions. YouTube: https://youtu.be/7-Z7lcm999o
+
+15. **Smallest Common Multiple** -- Finding the smallest common multiple for a range of numbers using Euclid's alrogithm. YouTube: https://youtu.be/itPtMtdEPis
+
+16. **Finders Keepers** -- Using function expressions with the `filter()` method. YouTube: https://youtu.be/0JrZju2q2bs
 
 ## Contribute
 
