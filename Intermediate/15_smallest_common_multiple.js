@@ -1,3 +1,9 @@
+// YouTube: https://youtu.be/itPtMtdEPis
+
+// This is less of a JavaScript task and more of a math task!
+// Before you attempt this, be sure to get a good understanding of
+// Euclid's algorithm. Start here: http://www.wikihow.com/Find-the-Least-Common-Multiple-of-Two-Numbers#Use_Euclid.27s_Algorithm_sub
+
 function smallestCommons(arr) {
   var min = Math.min(arr[0], arr[1]);
   var max = Math.max(arr[0], arr[1]);
