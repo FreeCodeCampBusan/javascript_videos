@@ -86,6 +86,8 @@ https://youtu.be/cz6JbsG4A-Y
 
 17. **Drop It** -- Using `while` to loop through something an unknown number of times. Using `shift()` to remove the first element of an array. YouTube: https://youtu.be/T3Q5Pffp6EM
 
+18. **Steamroller** -- Flatten a nested array using `reduce()` and recursion. 2 solutions available! YouTube: https://youtu.be/0Ke8KQSOFms 
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
