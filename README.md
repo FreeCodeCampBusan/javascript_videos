@@ -86,7 +86,9 @@ https://youtu.be/cz6JbsG4A-Y
 
 17. **Drop It** -- Using `while` to loop through something an unknown number of times. Using `shift()` to remove the first element of an array. YouTube: https://youtu.be/T3Q5Pffp6EM
 
-18. **Steamroller** -- Flatten a nested array using `reduce()` and recursion. 2 solutions available! YouTube: https://youtu.be/0Ke8KQSOFms 
+18. **Steamroller** -- Flatten a nested array using `reduce()` and recursion. 2 solutions available! YouTube: https://youtu.be/0Ke8KQSOFms
+
+19. **Binary Agents** -- Convert a string of binary code into human readable text with `parseInt()` and `fromCharCode()`. YouTube: https://youtu.be/ghLTDAvLs_w 
 
 ## Contribute
 
