@@ -88,7 +88,11 @@ https://youtu.be/cz6JbsG4A-Y
 
 18. **Steamroller** -- Flatten a nested array using `reduce()` and recursion. 2 solutions available! YouTube: https://youtu.be/0Ke8KQSOFms
 
-19. **Binary Agents** -- Convert a string of binary code into human readable text with `parseInt()` and `fromCharCode()`. YouTube: https://youtu.be/ghLTDAvLs_w 
+19. **Binary Agents** -- Convert a string of binary code into human readable text with `parseInt()` and `fromCharCode()`. YouTube: https://youtu.be/ghLTDAvLs_w
+
+20. **Everything Be True** -- Checking whether or not all objects in a collection have a certain property with `every()`. YouTube: https://youtu.be/UuRsIAjTKzI
+
+21. **Arguments Optional** -- Returning functions and preserving values with closures. YouTube: https://youtu.be/wA45ErxhRao
 
 ## Contribute
 
