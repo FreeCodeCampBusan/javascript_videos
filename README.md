@@ -94,6 +94,12 @@ https://youtu.be/cz6JbsG4A-Y
 
 21. **Arguments Optional** -- Returning functions and preserving values with closures. YouTube: https://youtu.be/wA45ErxhRao
 
+### Advanced
+
+**Watch the Advanced Prep Video!!** -- YouTube: https://youtu.be/dv6pkLYmqY0
+
+1. **Validate US Phone Numbers** -- Very seriously long and complex `Regular Expressions`. Using `Regex.test()` to validate strings against a regular expression. YouTube: https://youtu.be/JB71tFPsm2s
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
