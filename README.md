@@ -100,6 +100,8 @@ https://youtu.be/cz6JbsG4A-Y
 
 1. **Validate US Phone Numbers** -- Very seriously long and complex `Regular Expressions`. Using `Regex.test()` to validate strings against a regular expression. YouTube: https://youtu.be/JB71tFPsm2s
 
+2. **Symmetric Difference** -- Finding the symmetric difference of 2 or more sets of numbers. Uses `reduce()` and 2 helper functions. YouTube: https://youtu.be/v04Bmbfa4Jk
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
