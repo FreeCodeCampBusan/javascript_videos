@@ -102,6 +102,8 @@ https://youtu.be/cz6JbsG4A-Y
 
 2. **Symmetric Difference** -- Finding the symmetric difference of 2 or more sets of numbers. Uses `reduce()` and 2 helper functions. YouTube: https://youtu.be/v04Bmbfa4Jk
 
+3. **Exact Change** -- Good, old-fashioned problem solving with the methods you already know and love. YouTube: https://youtu.be/_nAUQYOjIek
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
