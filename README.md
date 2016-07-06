@@ -104,6 +104,8 @@ https://youtu.be/cz6JbsG4A-Y
 
 3. **Exact Change** -- Good, old-fashioned problem solving with the methods you already know and love. YouTube: https://youtu.be/_nAUQYOjIek
 
+4. **Inventory Update** -- Updating the current inventory (a 2D array) with the newest inventory (another 2D array). YouTube: https://youtu.be/5FoMIM5IChw
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
