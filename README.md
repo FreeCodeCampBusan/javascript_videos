@@ -106,6 +106,14 @@ https://youtu.be/cz6JbsG4A-Y
 
 4. **Inventory Update** -- Updating the current inventory (a 2D array) with the newest inventory (another 2D array). YouTube: https://youtu.be/5FoMIM5IChw
 
+5. **No Repeats Please** -- Calculate the number of permutations of a string with non-repeating values. YouTube: https://youtu.be/B5lUyJDkWzE
+
+6. **Friendly Date Ranges** -- Coming Soon!
+
+7. **Make A Person** -- Object constructors and the `this` keyword. Difference between public and private properties. Configuring object properties with `Object.defineProperty()`. YouTube: https://youtu.be/vhqkRKkeyVo
+
+8. **Map the Debris** -- Doing astronomical calculations using `forEach()` and `reduce()`. YouTube: https://youtu.be/DQxLcQKVkP4
+
 ## Contribute
 
 Contributions is what makes open source projects succeed! If you see a mistake or think you have a useful improvement, fork/clone this repo and make a pull request!
