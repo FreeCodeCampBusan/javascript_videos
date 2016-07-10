@@ -108,11 +108,13 @@ https://youtu.be/cz6JbsG4A-Y
 
 5. **No Repeats Please** -- Calculate the number of permutations of a string with non-repeating values. YouTube: https://youtu.be/B5lUyJDkWzE
 
-6. **Friendly Date Ranges** -- Coming Soon!
+6. **Friendly Date Ranges** -- Using `Date.parse()` and the `Date` object to create friendly date ranges. YouTube: https://youtu.be/Q1qlJkPb9Nk
 
 7. **Make A Person** -- Object constructors and the `this` keyword. Difference between public and private properties. Configuring object properties with `Object.defineProperty()`. YouTube: https://youtu.be/vhqkRKkeyVo
 
 8. **Map the Debris** -- Doing astronomical calculations using `forEach()` and `reduce()`. YouTube: https://youtu.be/DQxLcQKVkP4
+
+9. **Pairwise** -- The final challenge (unless Free Code Camp adds more)! Using additional arguments with `reduce()`, `NaN`, and multiple variable assignments. YouTube: https://youtu.be/yu6C1YLIdQA
 
 ## Contribute
 
